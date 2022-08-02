@@ -1,3 +1,8 @@
+# Netflix Clone
+
+A react website similar to Netflix [Netflix-Clone](https://netflix-clone-e5bec.web.app/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
